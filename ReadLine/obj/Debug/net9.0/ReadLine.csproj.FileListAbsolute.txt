@@ -1,0 +1,14 @@
+P:\Informatique\C#\ReadLine\bin\Debug\net9.0\ReadLine.exe
+P:\Informatique\C#\ReadLine\bin\Debug\net9.0\ReadLine.deps.json
+P:\Informatique\C#\ReadLine\bin\Debug\net9.0\ReadLine.runtimeconfig.json
+P:\Informatique\C#\ReadLine\bin\Debug\net9.0\ReadLine.dll
+P:\Informatique\C#\ReadLine\bin\Debug\net9.0\ReadLine.pdb
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.AssemblyInfoInputs.cache
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.AssemblyInfo.cs
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.csproj.CoreCompileInputs.cache
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.dll
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\refint\ReadLine.dll
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.pdb
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ReadLine.genruntimeconfig.cache
+P:\Informatique\C#\ReadLine\obj\Debug\net9.0\ref\ReadLine.dll

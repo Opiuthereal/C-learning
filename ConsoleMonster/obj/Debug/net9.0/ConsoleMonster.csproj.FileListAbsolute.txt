@@ -1,0 +1,14 @@
+P:\Informatique\C#\ConsoleMonster\bin\Debug\net9.0\ConsoleMonster.exe
+P:\Informatique\C#\ConsoleMonster\bin\Debug\net9.0\ConsoleMonster.deps.json
+P:\Informatique\C#\ConsoleMonster\bin\Debug\net9.0\ConsoleMonster.runtimeconfig.json
+P:\Informatique\C#\ConsoleMonster\bin\Debug\net9.0\ConsoleMonster.dll
+P:\Informatique\C#\ConsoleMonster\bin\Debug\net9.0\ConsoleMonster.pdb
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.GeneratedMSBuildEditorConfig.editorconfig
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.AssemblyInfoInputs.cache
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.AssemblyInfo.cs
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.csproj.CoreCompileInputs.cache
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.dll
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\refint\ConsoleMonster.dll
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.pdb
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ConsoleMonster.genruntimeconfig.cache
+P:\Informatique\C#\ConsoleMonster\obj\Debug\net9.0\ref\ConsoleMonster.dll
